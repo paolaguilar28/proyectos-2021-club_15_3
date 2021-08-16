@@ -43,8 +43,8 @@ Comparte tus observaciones, lo aprendedido, limitaciones y siguientes pasos.
  
 ### Equipo
 
-* Estudiante 1
-* Estudiante 2
-* Estudiante 3
-* Estudiante 4
+* Carlos Miguel Rodríguez González
+* Emilio Juárez Ávalos
+* Ada Jimena Vargas Aguirre
+* Paola Irene Aguilar Rodríguez
 
